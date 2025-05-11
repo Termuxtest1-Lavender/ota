@@ -1,0 +1,25 @@
+{
+  "response": [
+    {
+      "maintainer": "Termuxtest1",
+      "oem": "redmi",
+      "device": "lavender",
+      "filename": "",
+      "download": "",
+      "timestamp": 1746840359,
+      "md5": "ebe7a0cd72bf24aa85499bb55a27e1a1",
+      "sha256": "35209f61409afde4f634a84847dd2d0f5ef2cdc3a97de12149a8fd59e76ed8fd",
+      "size": 2569063547,
+      "version": "7.0",    
+      "buildtype": "Stable",
+      "forum": "-", 
+      "firmware": "-",
+      "paypal": "-",
+      "telegram": "https://t.me/AeoniixxAOSP",
+      "github": "Termuxtest1-lavender",
+      "initial_installation_images": [
+        "Prepare to Riseup! Unofficial OTA Support, brought to you by Termux!"
+      ]
+    }
+  ]
+}
