@@ -1,24 +1,21 @@
 {
   "response": [
     {
-      "maintainer": "Termuxtest1",
-      "oem": "redmi",
-      "device": "lavender",
-      "filename": "",
-      "download": "",
-      "timestamp": 1746840359,
-      "md5": "ebe7a0cd72bf24aa85499bb55a27e1a1",
-      "sha256": "35209f61409afde4f634a84847dd2d0f5ef2cdc3a97de12149a8fd59e76ed8fd",
-      "size": 2569063547,
-      "version": "7.0",    
-      "buildtype": "Stable",
-      "forum": "-", 
-      "firmware": "-",
-      "paypal": "-",
-      "telegram": "https://t.me/AeoniixxAOSP",
-      "github": "Termuxtest1-lavender",
-      "initial_installation_images": [
-        "Prepare to Riseup! Unofficial OTA Support, brought to you by Termux!"
+       "maintainer": "",                                                               
+       "oem": "",                       
+       "device": "",      
+       "filename": "RisingOS_Revived-7.1-250616-1231-Lavender-COMMUNITY-lavender.zip",   
+       "download": "https://sourceforge.net/projects/termux-lavender/files/Rising-Revived/15.0/RisingOS_Revived-7.1-250616-1231-Lavender-COMMUNITY-lavender.zip/download",     
+       "timestamp": 1750077101,     
+       "md5": "d72860be63dccb15d1f2dca4297ae9e5",       
+       "sha256": "b508dbad157a2fa24d2ea6c1ea38020ea2e1be5e8842216ce3e63f9d18de3d88",
+       "size": 1588548172,
+       "version": "7.1-Selene",
+       "buildtype": "",
+       "forum": "",
+       "recovery": "",
+       "paypal": "",                  
+       "telegram": "" 
       ]
     }
   ]
