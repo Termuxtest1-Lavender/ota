@@ -11,11 +11,11 @@
        "sha256": "b508dbad157a2fa24d2ea6c1ea38020ea2e1be5e8842216ce3e63f9d18de3d88",
        "size": 1588548172,
        "version": "7.1-Selene",
-       "buildtype": "",
+       "buildtype": "BETA",
        "forum": "",
        "recovery": "",
        "paypal": "",                  
-       "telegram": "" 
+       "telegram": "https://t.me/@Termuxtest2" 
     }
   ]
 }
